@@ -4,3 +4,4 @@
 .settings/
 */.project
 tycho-maven-repository/
+target/
